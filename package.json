@@ -1,0 +1,15 @@
+{
+  "name": "dashboard_js",
+  "version": "1.0.0",
+  "description": "This is a nodejs dashboard meant to display all of the info for a company and more",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/stradtkt/dashboard_js.git"
+  },
+  "author": "Kevin Stradtman",
+  "license": "MIT"
+}
